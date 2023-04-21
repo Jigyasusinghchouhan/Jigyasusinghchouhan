@@ -1,13 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15433
-Fork on GitHub4220
 <h1 align="center">Hi 👋, I'm JIGYASU SINGH CHOUHAN</h1>
 <h3 align="center">Frontend Developer and CS Graduate with MySQL Expertise - Driven to Create Visually Stunning Websites and Seeking Growth in a Dynamic Work Environmen</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigyasusinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="jigyasusinghchouhan" /> </p>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigyasusinghchouhan" alt="jigyasusinghchouhan" /></a> </p>
 
@@ -36,28 +32,3 @@ Fork on GitHub4220
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasusinghchouhan&show_icons=true&locale=en" alt="jigyasusinghchouhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigyasusinghchouhan&" alt="jigyasusinghchouhan" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
