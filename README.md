@@ -1,32 +1,42 @@
-<p align="center">
-  <img alt="Hi 👋, I'm JIGYASU SINGH CHOUHAN" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Hi, I'm JIGYASU SINGH CHOUHAN" width="400">
+</div>
 
-<h1 Hi there! 👋 I'm JIGYASU SINGH CHOUHAN
+# Hi there! 👋 I'm JIGYASU SINGH CHOUHAN
 
-🚀 **DevOps Engineer | Python Developer | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Expert in Multi-Platform Build Scripts** 🎓
+### 🚀 DevOps Engineer | Python Developer | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Expert in Multi-Platform Build Scripts 🎓
 
-As a computer science graduate, I excel at the nexus of technology and creativity. My journey has finely honed my skills in MySQL, enabling me to fashion visually captivating websites with precision and performance.
+As a computer science graduate, I excel at the intersection of technology and creativity. My journey has finely honed my skills in MySQL, enabling me to craft visually captivating websites with precision and performance.
 
-👩‍💻 **Professional Journey:**
-- Currently, a DevOps Engineer Trainee at Sigma Solve, specializing in Python development.
+### 👩‍💻 Professional Journey:
+- Currently a DevOps Engineer Trainee at Sigma Solve, specializing in Python development.
 - Proficient in AWS, Azure, SQL, Automation, and CI/CD, adept at resolving real-world challenges with precision.
 
-🌐 **Technical Proficiency:**
+### 🌐 Technical Proficiency:
 - Mastery in MySQL for crafting visually striking websites.
 - Strong foundation in computer science ensures systematic problem-solving and the creation of clean, maintainable code.
 
-☁️ **Cloud & DevOps Enthusiast:**
+### ☁️ Cloud & DevOps Enthusiast:
 - Passionate about cloud computing, excelling in deploying and managing web applications in AWS and Azure.
 - Advocate for streamlined processes to enhance efficiency as a DevOps enthusiast.
 
-🤖 **Automation & CI/CD Maven:**
+### 🤖 Automation & CI/CD Maven:
 - Specialize in automation and CI/CD, accelerating software development cycles for rapid and reliable delivery.
 
-🤝 **Let's Connect:**
+### 🤝 Let's Connect:
 I'm excited to connect with fellow tech enthusiasts, industry professionals, and mentors. Whether you want to discuss the latest tech trends, share insights, or explore potential collaborations, feel free to reach out!
 
-🚀 **Let's code the future together!** 💻✨
+### 🚀 Let's code the future together! 💻✨
+
+---
+
+### Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/jigyasusinghchouahn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+  <a href="https://instagram.com/jigyasu_singh_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
+</div>
+
 
 
 ### Connect with Me
