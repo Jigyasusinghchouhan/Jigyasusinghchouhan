@@ -69,7 +69,13 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+---
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jigyasusinghchouhan&theme=dark&hide_border=false)<br/>
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -94,7 +100,9 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+
+
+
 
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Jigyasusinghchouhan&icon=0&color=0)
