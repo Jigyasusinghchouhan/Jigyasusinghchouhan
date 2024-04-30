@@ -32,15 +32,6 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
 
 ### Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/jigyasusinghchouahn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://instagram.com/jigyasu_singh_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-</div>
-
-
-
-### Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/jigyasusinghchouahn" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
@@ -50,7 +41,6 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
   </a>
 
 ---
-
 
 # 💻 Tech Stack:
 <div align="center">
@@ -75,26 +65,38 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">
   <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers Badge">
 </div> 
-
+---
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jigyasusinghchouhan&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jigyasusinghchouhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jigyasusinghchouhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
+
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Jigyasusinghchouhan&icon=0&color=0)
 
 <!--  created by Jigyasu ) -->
