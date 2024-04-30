@@ -2,7 +2,7 @@
   <img alt="Hi 👋, I'm JIGYASU SINGH CHOUHAN" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 </p>
 
-<h# Hi there! 👋 I'm JIGYASU SINGH CHOUHAN
+<h1 Hi there! 👋 I'm JIGYASU SINGH CHOUHAN
 
 🚀 **DevOps Engineer | Python Developer | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Expert in Multi-Platform Build Scripts** 🎓
 
