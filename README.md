@@ -2,45 +2,46 @@
   <img alt="Hi 👋, I'm JIGYASU SINGH CHOUHAN" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 </p>
 
-<h1 align="center">Hi 👋, I'm JIGYASU SINGH CHOUHAN</h1>
-<h3 align="center">DevOps Engineer & Python Developer 🚀 | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Chef | MySQL Expert | Multi-Platform Build Scripts 🎓</h3>
-<p align="center">Dedicated to optimizing software development processes and infrastructure, specializing in AWS, Docker, Jenkins, networking, cloud security, Terraform, CI/CD, Kubernetes, Ansible, Puppet, Chef, and MySQL. Proficient in crafting multi-platform build scripts and committed to creating visually stunning websites while embracing growth in a dynamic work environment.</p>
+<h# Hi there! 👋 I'm JIGYASU SINGH CHOUHAN
 
+🚀 **DevOps Engineer | Python Developer | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Expert in Multi-Platform Build Scripts** 🎓
 
-<p align="center">
-  <a href="https://twitter.com/jigyasusingh14" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jigyasusingh14?logo=twitter&style=for-the-badge" alt="jigyasusingh14">
-  </a>
-</p>
+As a computer science graduate, I excel at the nexus of technology and creativity. My journey has finely honed my skills in MySQL, enabling me to fashion visually captivating websites with precision and performance.
 
----
+👩‍💻 **Professional Journey:**
+- Currently, a DevOps Engineer Trainee at Sigma Solve, specializing in Python development.
+- Proficient in AWS, Azure, SQL, Automation, and CI/CD, adept at resolving real-world challenges with precision.
 
-# 💫 About Me:
-Frontend Developer and CS Graduate | MySQL Expert | Creating Visually Stunning Websites | Seeking Growth in a Dynamic Work Environment | Cybersecurity and Cloud Computing Enthusiast
+🌐 **Technical Proficiency:**
+- Mastery in MySQL for crafting visually striking websites.
+- Strong foundation in computer science ensures systematic problem-solving and the creation of clean, maintainable code.
+
+☁️ **Cloud & DevOps Enthusiast:**
+- Passionate about cloud computing, excelling in deploying and managing web applications in AWS and Azure.
+- Advocate for streamlined processes to enhance efficiency as a DevOps enthusiast.
+
+🤖 **Automation & CI/CD Maven:**
+- Specialize in automation and CI/CD, accelerating software development cycles for rapid and reliable delivery.
+
+🤝 **Let's Connect:**
+I'm excited to connect with fellow tech enthusiasts, industry professionals, and mentors. Whether you want to discuss the latest tech trends, share insights, or explore potential collaborations, feel free to reach out!
+
+🚀 **Let's code the future together!** 💻✨
+
 
 ### Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/jigyasusingh14" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
-  </a>
   <a href="https://linkedin.com/in/jigyasusinghchouahn" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
   <a href="https://instagram.com/jigyasu_singh_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
-  <a href="https://www.youtube.com/c/@technicaljigs" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
-  </a>
-  <a href="https://jigyasu2001.carrd.co/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Personal Website" height="30" width="40">
-  </a>
-</p>
 
 ---
 
-# 💻 Tech Stack:
+
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge">
