@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm JIGYASU SINGH CHOUHAN</h1>
-<h3 align="center">Frontend Developer and CS Graduate | MySQL Expert | Creating Visually Stunning Websites | Seeking Growth in a Dynamic Work Environment | Cybersecurity and Cloud Computing Enthusiast</h3>
-<p align="center">Driven to Create Visually Stunning Websites and Seeking Growth in a Dynamic Work Environment</p>
+<h3 align="center">DevOps Engineer & Python Developer 🚀 | AWS | Docker | Jenkins | Networking | Cloud Security | Terraform | CI/CD | Kubernetes | Ansible | Puppet | Chef | MySQL Expert | Multi-Platform Build Scripts 🎓</h3>
+<p align="center">Dedicated to optimizing software development processes and infrastructure, specializing in AWS, Docker, Jenkins, networking, cloud security, Terraform, CI/CD, Kubernetes, Ansible, Puppet, Chef, and MySQL. Proficient in crafting multi-platform build scripts and committed to creating visually stunning websites while embracing growth in a dynamic work environment.</p>
+
 
 <p align="center">
   <a href="https://twitter.com/jigyasusingh14" target="_blank">
