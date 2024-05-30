@@ -9,19 +9,22 @@
 As a computer science graduate, I excel at the intersection of technology and creativity. My journey has finely honed my skills in MySQL, enabling me to craft visually captivating websites with precision and performance.
 
 ### 👩‍💻 Professional Journey:
-- Currently a DevOps Engineer Trainee at Sigma Solve, specializing in Python development.
+- **DevOps Engineer Trainee at Sigma Solve**: Specializing in Python development.
 - Proficient in AWS, Azure, SQL, Automation, and CI/CD, adept at resolving real-world challenges with precision.
 
 ### 🌐 Technical Proficiency:
-- Mastery in MySQL for crafting visually striking websites.
-- Strong foundation in computer science ensures systematic problem-solving and the creation of clean, maintainable code.
+- **Mastery in MySQL**: Crafting visually striking websites.
+- Strong foundation in computer science: Ensuring systematic problem-solving and the creation of clean, maintainable code.
 
 ### ☁️ Cloud & DevOps Enthusiast:
-- Passionate about cloud computing, excelling in deploying and managing web applications in AWS and Azure.
-- Advocate for streamlined processes to enhance efficiency as a DevOps enthusiast.
+- **Passionate about cloud computing**: Excelling in deploying and managing web applications in AWS and Azure.
+- Advocate for streamlined processes: Enhancing efficiency as a DevOps enthusiast.
 
 ### 🤖 Automation & CI/CD Maven:
-- Specialize in automation and CI/CD, accelerating software development cycles for rapid and reliable delivery.
+- Specialize in automation and CI/CD: Accelerating software development cycles for rapid and reliable delivery.
+
+### 🌟 Open Source Contributor:
+- Active in contributing to open-source projects: Enhancing and maintaining community-driven software.
 
 ### 🤝 Let's Connect:
 I'm excited to connect with fellow tech enthusiasts, industry professionals, and mentors. Whether you want to discuss the latest tech trends, share insights, or explore potential collaborations, feel free to reach out!
@@ -30,20 +33,21 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
 
 ---
 
-### Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jigyasusinghchouahn" target="blank">
+  <a href="https://linkedin.com/in/jigyasusinghchouahn" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  <a href="https://instagram.com/jigyasu_singh_" target="blank">
+  <a href="https://instagram.com/jigyasu_singh_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
+
 <div align="center">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
@@ -67,65 +71,15 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
   <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers Badge">
 </div>
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigyasusinghchouhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
----
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jigyasusinghchouhan&theme=dark&hide_border=false)<br/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jigyasusinghchouhan&theme=dark&hide_border=false)
 
 ---
 
@@ -133,22 +87,26 @@ I'm excited to connect with fellow tech enthusiasts, industry professionals, and
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jigyasusinghchouhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
+
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
+
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jigyasusinghchouhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme:
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Jigyasusinghchouhan&icon=0&color=0)
