@@ -7,19 +7,20 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Specialist | Kubernetes | Terraform | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Automate+everything.;Cloud-first+DevOps+engineer.;Passionate+about+CI%2FCD+and+Infrastructure+as+Code.;Always+learning+and+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9A%80%7C+CI%2FCD+Automation%7C+AWS%2C+Azure+%26+Docker%7C+Jenkins%2C+Kubernetes%2C+Terraform%7C+Python%2C+MySQL%2C+SQL%7C+DevSecOps%2C+Cloud+Infrastructure%7C+Blockchain%2C+AI%2FML+Deployments" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working as a **DevOps Engineer** at **Sigma Solve**
-- 🌱 Currently exploring **Kubernetes**, **Helm**, and **DevSecOps**
-- 💬 Ask me about **CI/CD, Docker, Jenkins, Terraform, Python, AWS, Linux**
-- 📫 Reach me at **jigyasu@example.com**
-- 🧠 Strong believer in **automating the boring stuff**
-- 🌐 Personal blog coming soon on **Hashnode & Medium**
+- 🔭 DevOps Engineer with hands-on experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications on cloud platforms like **AWS** and **Azure**.
+- 🌱 Proficient in **containerization**, **configuration management**, **monitoring**, and **security integration**.
+- 💬 Adept at improving release cycles, resolving production issues, and collaborating in **Agile environments**.
+- 🧠 Focused on reducing downtime and enhancing system reliability through proactive **automation** and **DevSecOps** practices.
+- 📫 Reach me at **jigyashu2001@gmail.com**.
+- 🌐 Personal blog coming soon on **Hashnode & Medium**.
 
 ---
 
@@ -74,7 +75,8 @@
 
 ## 💬 Fun Fact
 
-🧩 I thrive in **collaborative environments**, love solving automation puzzles, and have a passion for clean and efficient pipelines.
+🧩 I thrive in **collaborative environments**, love cracking **automation puzzles**, and have an obsession with building **lean, efficient pipelines**. Always exploring the latest in **AI/ML**, **Blockchain**, and **cutting-edge cloud technologies** to stay ahead of the curve.
+
 
 ---
 
