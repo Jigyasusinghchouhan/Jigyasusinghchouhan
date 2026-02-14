@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Kubernetes+%26+Container+Expert+%F0%9F%90%B3;Automation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Kubernetes+Orchestration+Specialist;AWS+%26+Platform+Engineering;DevSecOps+%7C+AI+Infrastructure;CI%2FCD+Pipeline+Architect;Automation+%26+Reliability+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges with Animation -->
@@ -32,25 +32,29 @@
 
 ```yaml
 name: Jigyasu Singh Chouhan
-role: Junior DevOps Engineer @ Sigma Solve
+role: DevOps & Cloud Engineer
 location: India
-experience: 2023 - Present
+experience: 2+ Years (2023 - Present)
 focus:
-  - Cloud Infrastructure (AWS, Azure, GCP)
-  - CI/CD Pipeline Automation
-  - Container Orchestration (Kubernetes, Docker)
-  - Infrastructure as Code (Terraform, Ansible)
-  - DevSecOps & Monitoring
+  - Cloud-Native Infrastructure
+  - CI/CD Automation
+  - Kubernetes Orchestration
+  - Infrastructure as Code (Terraform)
+  - DevSecOps
+  - Observability & Reliability Engineering
+  - AI Infrastructure Exposure
+  - Platform Engineering Practices
 ```
 
-I'm a passionate **DevOps Engineer** dedicated to building robust, scalable, and automated infrastructure solutions. My expertise lies in bridging the gap between development and operations, ensuring seamless deployments and optimal system performance.
+I'm a **DevOps & Cloud Engineer** specializing in building scalable, secure, and resilient cloud-native infrastructure. With 2+ years of hands-on experience, I architect automated CI/CD pipelines, orchestrate containerized workloads on Kubernetes, and implement DevSecOps practices across multi-cloud environments. My expertise spans cloud infrastructure design, platform automation, observability engineering, and supporting AI-driven application deployments with a focus on performance, reliability, and security at scale.
 
 ### 🎯 Current Focus
-- 🔭 Building production-ready **CI/CD pipelines** with Jenkins & GitHub Actions
-- 🌱 Mastering **Kubernetes** orchestration and **Service Mesh** technologies
-- 🛡️ Implementing **DevSecOps** practices for secure deployments
-- 📚 Exploring **GitOps** workflows with ArgoCD and Flux
-- ⚡ Optimizing cloud costs and improving system reliability
+- 🔭 Cloud-native architecture design and implementation
+- 🌱 Kubernetes workload optimization and orchestration
+- 🛡️ Secure pipeline standardization with DevSecOps integration
+- 📊 Observability improvements using Prometheus, Grafana & distributed tracing
+- 🤖 AI infrastructure engineering for containerized ML workloads
+- ⚡ Platform engineering maturity and GitOps adoption
 
 ---
 
@@ -64,7 +68,7 @@ I'm a passionate **DevOps Engineer** dedicated to building robust, scalable, and
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**AWS Services:** EC2, S3, RDS, Lambda, ECS, EKS, VPC, Route53, CloudWatch, IAM, DynamoDB, CloudFront  
+**AWS Services:** EC2, S3, RDS, Lambda, ECS, EKS, VPC, Route53, CloudWatch, IAM, DynamoDB, CloudFront, ALB  
 **Azure Services:** Azure DevOps, Virtual Machines, App Services, AKS, Azure Monitor
 
 </details>
@@ -157,27 +161,135 @@ I'm a passionate **DevOps Engineer** dedicated to building robust, scalable, and
 <tr>
 <td width="100%">
 
-### 🏢 Junior DevOps Engineer | **Sigma Solve**
-*📅 2023 - Present*
+### 🏢 DevOps Engineer | **Rootle AI**
+*📅 November 2025 - Present*
 
-#### 🎯 Key Achievements & Responsibilities
+#### 🎯 Key Responsibilities
 
 ```diff
-+ Architected and deployed 15+ production-ready CI/CD pipelines reducing deployment time by 60%
-+ Automated infrastructure provisioning using Terraform, managing 100+ cloud resources
-+ Migrated monolithic applications to containerized microservices on Kubernetes
-+ Implemented comprehensive monitoring solutions with Prometheus & Grafana (99.9% uptime)
-+ Reduced cloud costs by 35% through resource optimization and automation
-+ Orchestrated zero-downtime deployments for critical production applications
++ Managing scalable and secure infrastructure for AI-driven voice agent systems
++ Designing CI/CD pipelines for rapid model and application deployments
++ Deploying containerized AI services using Docker & Kubernetes on AWS
++ Implementing monitoring with Grafana & Prometheus for real-time observability
++ Optimizing resource allocation for performance-sensitive AI workloads
++ Strengthening IAM governance and deployment reliability
 ```
 
 **🔧 Technical Contributions:**
-- Designed multi-stage Jenkins pipelines with automated testing, security scanning, and deployment
-- Managed Kubernetes clusters (EKS/AKS) with autoscaling, ingress controllers, and service mesh
-- Implemented GitOps workflows for infrastructure and application deployments
-- Created reusable Terraform modules for standardized cloud resource provisioning
-- Established monitoring dashboards and alerting mechanisms for proactive issue resolution
-- Collaborated with development teams in Agile/Scrum environments for continuous improvement
+- Architected and managed AWS cloud infrastructure (EC2, RDS, S3, VPC, ALB, IAM, CloudWatch)
+- Built automated CI/CD pipelines supporting AI/ML application deployments
+- Deployed and orchestrated containerized AI workloads on Kubernetes
+- Implemented comprehensive monitoring and alerting for high-availability systems
+- Applied least-privilege IAM policies and security best practices
+- Optimized infrastructure for CPU-intensive AI inference workloads
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 DevOps Engineer | **Vrinsoft Technology Pvt. Ltd**
+*📅 July 2025 - October 2025*
+
+#### 🎯 Key Responsibilities
+
+```diff
++ Designed scalable CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI/CD
++ Implemented AWS ECS deployments with Auto Scaling for high availability
++ Improved deployment stability via automated validation workflows
++ Integrated SonarQube for static code analysis and quality gates
++ Managed AWS cloud infrastructure and resource optimization
+```
+
+**🔧 Technical Contributions:**
+- Built multi-stage CI/CD pipelines with automated testing and validation
+- Deployed containerized applications using AWS ECS with Auto Scaling
+- Configured automated rollback mechanisms for failed deployments
+- Integrated SonarQube into pipelines for continuous code quality monitoring
+- Managed cloud infrastructure provisioning and cost optimization strategies
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 DevOps Engineer | **Sigma Solve**
+*📅 December 2023 - June 2025*
+
+#### 🎯 Key Responsibilities
+
+```diff
++ Designed and maintained CI/CD pipelines across multiple technology stacks
++ Deployed FastAPI, AI/ML applications integrated with RabbitMQ, Redis, Celery
++ Managed Node.js, .NET MVC, PHP/Laravel production deployments
++ Implemented monitoring with Grafana, Prometheus, New Relic
++ Integrated DevSecOps practices and SonarQube quality gates
++ Resolved P1-P3 production incidents with root cause analysis
++ Documented infrastructure setup and deployment processes
+```
+
+**🔧 Technical Contributions:**
+- Designed Jenkins and GitHub Actions pipelines for multi-stack applications
+- Deployed microservices architectures with message queuing (RabbitMQ) and caching (Redis)
+- Orchestrated background task processing with Celery for distributed systems
+- Established comprehensive observability with Prometheus, Grafana, and New Relic
+- Implemented security scanning (SonarQube, Trivy) in CI/CD workflows
+- Collaborated with cross-functional teams in Agile environments
+- Created infrastructure documentation and runbooks for operational excellence
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & Intelligent Systems Infrastructure
+
+<table>
+<tr>
+<td width="100%">
+
+**Building Infrastructure for AI-Powered Applications**
+
+- 🐳 Containerizing AI workloads using Docker and orchestrating with Kubernetes
+- 🔄 Designing CI/CD pipelines supporting ML model deployments and versioning
+- ⚡ Managing infrastructure for real-time AI applications and voice agent systems
+- 🌐 Integrating cloud-based LLM inference APIs into production workflows
+- 📊 Monitoring CPU-intensive AI workloads with custom Prometheus metrics
+- 🚀 Scaling event-driven microservices for distributed AI processing
+- 🧠 Exploring agent-based orchestration architectures and intelligent automation
+
+*Focus: Practical infrastructure supporting AI application deployments with emphasis on reliability, observability, and scalability.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Platform & Automation Engineering
+
+<table>
+<tr>
+<td width="100%">
+
+**Standardizing Infrastructure and Deployment Workflows**
+
+- 🔄 Implementing GitOps workflows with ArgoCD for declarative infrastructure management
+- 📦 Building reusable Terraform modules for consistent cloud resource provisioning
+- 🏗️ Automating environment provisioning across development, staging, and production
+- 🔒 Designing secure CI/CD pipeline architectures with secrets management
+- 🛡️ Implementing IAM least-privilege policies and role-based access control
+- 🏛️ Architecting high-availability systems with automated failover mechanisms
+- ✅ Establishing deployment validation gates and automated rollback strategies
+
+*Focus: Platform reliability, infrastructure consistency, and deployment automation aligned with modern DevOps practices.*
 
 </td>
 </tr>
@@ -259,7 +371,8 @@ I'm a passionate **DevOps Engineer** dedicated to building robust, scalable, and
 | **📊 Observability** | Metrics • Logging • Tracing • Alerting • Performance Tuning |
 | **🔒 Security** | DevSecOps • Secrets Management • Compliance • Vulnerability Scanning |
 | **☁️ Cloud** | AWS • Azure • GCP • Cost Optimization • Migration Strategies |
-| **🤝 Collaboration** | Agile/Scrum • Documentation • Code Review • Incident Management |
+| **🤖 AI Infrastructure** | Containerized AI Workloads • ML Pipeline Automation • Resource Optimization |
+| **⚙️ Platform Engineering** | GitOps • Environment Automation • Deployment Standards • IAM Governance |
 
 </div>
 
@@ -279,14 +392,14 @@ I'm a passionate **DevOps Engineer** dedicated to building robust, scalable, and
 
 <div align="center">
 
-I'm always interested in collaborating on **DevOps**, **Cloud Infrastructure**, and **Automation** projects!
+I'm always interested in collaborating on **DevOps**, **Cloud Infrastructure**, **Platform Engineering**, and **AI Infrastructure** projects.
 
 📧 **Email:** [jigyashu2001@gmail.com](mailto:jigyashu2001@gmail.com)  
 💼 **LinkedIn:** [jigyasusinghchouahn](https://www.linkedin.com/in/jigyasusinghchouahn)  
 📝 **Blog:** Coming soon on Hashnode & Medium  
 
 ### 💭 Let's talk about:
-`Cloud Architecture` • `Kubernetes` • `CI/CD` • `Infrastructure as Code` • `DevSecOps` • `Automation` • `SRE`
+`Cloud Architecture` • `Kubernetes` • `CI/CD` • `Infrastructure as Code` • `DevSecOps` • `Automation` • `SRE` • `AI Infrastructure` • `Platform Engineering`
 
 ---
 
